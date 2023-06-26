@@ -1,0 +1,80 @@
+Título: Sweet Child o' Mine
+Artista: Guns N' Roses
+Duración: (5, 56)
+-------------------------
+Título: Thriller
+Artista: Michael Jackson
+Duración: (5, 57)
+-------------------------
+Título: Wonderwall
+Artista: Oasis
+Duración: (4, 18)
+-------------------------
+Título: Smells Like Teen Spirit
+Artista: Nirvana
+Duración: (5, 1)
+-------------------------
+Título: Stairway to Heaven
+Artista: Led Zeppelin
+Duración: (8, 2)
+-------------------------
+Título: Shape of You
+Artista: Ed Sheeran
+Duración: (3, 53)
+-------------------------
+Título: Imagine
+Artista: John Lennon
+Duración: (3, 3)
+-------------------------
+Título: Hotel California
+Artista: Eagles
+Duración: (6, 30)
+-------------------------
+Título: Bohemio Enamorado
+Artista: Donato y Estéfano
+Duración: (4, 46)
+-------------------------
+Título: Hey Jude
+Artista: The Beatles
+Duración: (7, 11)
+-------------------------
+Título: Sweet Child of Mine
+Artista: Guns and Roses
+Duración: (5, 56)
+-------------------------
+Título: Billie Jean
+Artista: Michael Jackson
+Duración: (4, 54)
+-------------------------
+Título: Wonderwall
+Artista: Oasis
+Duración: (4, 18)
+-------------------------
+Título: Smells Like Teen Spirit
+Artista: Nirvana
+Duración: (5, 1)
+-------------------------
+Título: Stairway to Heaven
+Artista: Led Zeppelin
+Duración: (8, 2)
+-------------------------
+Título: Shape of You
+Artista: Ed Sheeran
+Duración: (3, 53)
+-------------------------
+Título: Imagine
+Artista: John Lennon
+Duración: (3, 3)
+-------------------------
+Título: Hotel California
+Artista: Eagles
+Duración: (6, 30)
+-------------------------
+Título: Bohemian Rhapsody
+Artista: Queen
+Duración: (5, 55)
+-------------------------
+Título: One
+Artista: Metallica
+Duración: (7, 27)
+-------------------------
